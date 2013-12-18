@@ -1,4 +1,5 @@
-Dec. 18, 2013
 
-Current version is only available for x86 vc10.
-And it still uses the Iplimage. It needs to be changed to cv::Mat. 
+2013/12/18
+Notes:
+	1. Current version is only available for x86.
+	2. Currently it uses Iplimage.
